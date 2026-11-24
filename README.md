@@ -4,7 +4,7 @@
 
 # PROFESSOR-CODDER
 
-**Multidisciplinary Technology Engineer | Software Engineer | Security Engineer | Software & Systems Architect | Cryptographer | AI/ML Engineer | IoT & Embedded Systems Developer | Computer Engineer**
+**Technology and Dev Engineer | Software Engineer | Security Engineer | Software & Systems Architect | Cryptographer | AI/ML Engineer | IoT & Embedded Systems Developer | Computer Engineer**
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4C7&center=true&vCenter=true&width=880&lines=Welcome+to+Professor-Coder's+GitHub;Multidisciplinary+Technology+Engineer;Software+%26+Systems+Architect;Cybersecurity+%26+Cryptography+Engineer;AI%2FML+%26+Intelligent+Systems+Developer;IoT+%26+Embedded+Systems+Engineer;Engineering+the+Future+with+Innovation" alt="Typing SVG" />
